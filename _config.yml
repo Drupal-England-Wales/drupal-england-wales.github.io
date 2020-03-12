@@ -1,2 +1,6 @@
 name: Drupal England and Wales
 markdown: kramdown
+defaults:
+  -
+    scope:
+      path: "assets"
