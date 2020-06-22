@@ -24,3 +24,5 @@ body.drag{cursor:move;}tr.region-title{font-weight:bold;}tr.region-message{color
 div.tree-child{background:url(/core/themes/stable/images/core/tree.png) no-repeat 11px center;}div.tree-child-last{background:url(/core/themes/stable/images/core/tree-bottom.png) no-repeat 11px center;}[dir="rtl"] div.tree-child,[dir="rtl"] div.tree-child-last{background-position:-65px center;}div.tree-child-horizontal{background:url(/core/themes/stable/images/core/tree.png) no-repeat -11px center;}
 .views-align-left{text-align:left;}.views-align-right{text-align:right;}.views-align-center{text-align:center;}.views-view-grid .views-col{float:left;}.views-view-grid .views-row{float:left;clear:both;width:100%;}.views-display-link + .views-display-link{margin-left:0.5em;}
 .paragraph--unpublished{background-color:#fff4f4;}
+.introduction #profiles p { font-size: 1em; }
+.gallery-item h3 { font-weight: bold; }
